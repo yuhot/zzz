@@ -31,37 +31,37 @@ ki = VIPRO.LINE()
 ki.login(token="token")
 ki.loginResult()
 
-ki2= VIPRO.LINE()
-ki2.login(token="token")
-ki2.loginResult()
+#ki2= VIPRO.LINE()
+#ki2.login(token="token")
+#ki2.loginResult()
 
-ki3 = VIPRO.LINE()
-ki3.login(token="token")
-ki3.loginResult()
+#ki3 = VIPRO.LINE()
+#ki3.login(token="token")
+#ki3.loginResult()
 
-ki4 = VIPRO.LINE()
-ki4.login(token="token")
-ki4.loginResult()
+#ki4 = VIPRO.LINE()
+#ki4.login(token="token")
+#ki4.loginResult()
 
-ki5 = VIPRO.LINE()
-ki5.login(token="token")
-ki5.loginResult()
+#ki5 = VIPRO.LINE()
+#ki5.login(token="token")
+#ki5.loginResult()
 
-ki6 = VIPRO.LINE()
-ki6.login(token="token")
-ki6.loginResult()
+#ki6 = VIPRO.LINE()
+#ki6.login(token="token")
+#ki6.loginResult()
 
-ki7 = VIPRO.LINE()
-ki7.login(token="token")
-ki7.loginResult()
+#ki7 = VIPRO.LINE()
+#ki7.login(token="token")
+#ki7.loginResult()
 
-ki8 = VIPRO.LINE()
-ki8.login(token="token")
-ki8.loginResult()
+#ki8 = VIPRO.LINE()
+#ki8.login(token="token")
+#ki8.loginResult()
 
-ki9 = VIPRO.LINE()
-ki9.login(token="token")
-ki9.loginResult()
+#ki9 = VIPRO.LINE()
+#ki9.login(token="token")
+#ki9.loginResult()
 
 ki10 = VIPRO.LINE() #Ghost
 ki10.login(token="token")
@@ -328,22 +328,22 @@ translateMessage ="""
 ╠╩═══════════════
 ╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
 """
-KAC=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
-DEF=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
+KAC=[vipro,ki,ki10]
+DEF=[vipro,ki,ki10]
 mid = vipro.getProfile().mid
 kimid = ki.getProfile().mid
-ki2mid = ki2.getProfile().mid
-ki3mid = ki3.getProfile().mid
-ki4mid = ki4.getProfile().mid
-ki5mid = ki5.getProfile().mid
-ki6mid = ki6.getProfile().mid
-ki7mid = ki7.getProfile().mid
-ki8mid = ki8.getProfile().mid
-ki9mid = ki9.getProfile().mid
+#ki2mid = ki2.getProfile().mid
+#ki3mid = ki3.getProfile().mid
+#ki4mid = ki4.getProfile().mid
+#ki5mid = ki5.getProfile().mid
+#ki6mid = ki6.getProfile().mid
+#ki7mid = ki7.getProfile().mid
+#ki8mid = ki8.getProfile().mid
+#ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Smid = owner.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"uda936836a9869eb86ec8ab992a4e8979"]
-admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"uda936836a9869eb86ec8ab992a4e8979","ue4e13b0a41d848845489374e671c6861","ub21eb3d440e0dfd640eef9f2fb5ce02d","u782cdf7a9fd2545c84a0cd86f418e9f7","u799da4e06d50e1775cfcff1f3e59df03"]
+Bots=[mid,kimid,ki10mid,Smid,"uda936836a9869eb86ec8ab992a4e8979"]
+admin=[mid,kimid,Smid,"uda936836a9869eb86ec8ab992a4e8979","ue4e13b0a41d848845489374e671c6861","ub21eb3d440e0dfd640eef9f2fb5ce02d","u782cdf7a9fd2545c84a0cd86f418e9f7","u799da4e06d50e1775cfcff1f3e59df03"]
 creator=["uda936836a9869eb86ec8ab992a4e8979"]
 admsa=["uda936836a9869eb86ec8ab992a4e8979"]
 
